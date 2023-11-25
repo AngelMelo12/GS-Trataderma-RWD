@@ -1,0 +1,15 @@
+.box_image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.box_analise {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+h3 {
+  color: #00968F;
+}

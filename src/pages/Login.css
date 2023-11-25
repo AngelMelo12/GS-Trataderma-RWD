@@ -1,0 +1,50 @@
+
+
+.box_login {
+  background-color: white;
+  display: flex;
+  width: 600px;
+  height: 600px;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  margin-left: 30% ;
+  margin-top: 100px;
+  border-radius: 6px;
+  border:none;
+
+}
+
+.box_filho {
+  width: 300px;
+  margin-top: 50px;
+  text-align: start;
+
+}
+
+label {
+  color: rgb(43, 133, 252);
+}
+
+.boty_login {
+  background-color: rgb(145, 180, 253);
+  height: 800px;
+  display: flex;
+}
+
+.Login_input {
+  padding: 10px 17px;
+  border-radius: 10px;
+  border: 1px ;
+  margin-bottom: 20px;
+}
+
+.login_button {
+  color: white;
+  background-color: rgb(43, 82, 255);
+  padding: 10px ;
+  border-radius: 7px;
+  margin-left: 60px;
+}

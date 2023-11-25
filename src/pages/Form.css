@@ -1,0 +1,52 @@
+.box_analise {
+  display: flex;
+  vertical-align: middle;
+  justify-content: center;
+
+}
+
+.box_filho_analise {
+  width: 22%;
+  padding: 40px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #00968F;
+
+}
+
+.label_analise {
+  color:white;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.analise_input {
+  padding: 10px 20px;
+  margin: 25px 0px 25px 0px;
+  
+  border-radius: 4px;
+  border: none;
+}
+
+.h1_analise {
+  text-align: center;
+  margin: 20px 0px 20px;
+  color: #00968F;
+}
+
+.button_analise {
+  background-color: #99f0ec;
+  margin-left: 70px;
+  padding: 10px 10px;
+  margin-top: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+  list-style-type: none;
+  border: #99f0ec;
+}
+
+.img_analise{
+  height: 95%;
+  border-radius: 5px;
+  margin-top: 10px;
+}

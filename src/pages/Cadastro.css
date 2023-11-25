@@ -1,0 +1,53 @@
+.h1_cadastro {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+
+.formulario {
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    margin: 50px;
+    margin-left: 30%; 
+    padding: 40px;
+    border-radius: 5px;
+    width: 600px;
+}
+
+.box_body {
+    background-color: #00968F;
+    padding: 40px;
+}
+
+label {
+    color: #00968F;
+}
+
+input {
+    border-radius: 4px;
+    background-color: rgb(225, 224, 224);
+    border: 1px ;
+    padding: 5px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    
+}
+
+.button_cad {
+    background-color: #00968F;
+    padding: 15px 30px;
+    border-radius: 5px;
+    color:rgb(255, 255, 255) ;
+    margin-left: 40%;
+    font-weight: bold;
+    transition: background-color 0.15s,font-size 0.15s;
+  }
+.button_cad:hover {
+    background-color: #00968F;
+    border:#00968F;
+}
+
+span {
+    color: red
+}

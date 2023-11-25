@@ -1,0 +1,24 @@
+footer {
+  background-color: rgb(44, 44, 44);
+  color: white;
+  padding: 30px;
+  text-align: center;
+  
+}
+
+.footer_img {
+  width: 30px;
+  margin-right: 20px;
+}
+.logo_footer {
+  color: #00968F;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.texto_footer {
+  margin-bottom: 20px;
+  text-align: left;
+  margin-left: 30%;
+}

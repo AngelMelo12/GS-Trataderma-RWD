@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+nav {
+  display: flex;
+  height: 75px;
+  justify-content: center;
+  align-items: center;  
+  gap: 1rem;
+  position: sticky;
+  top: 0;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 1px 19px rgba(0, 0, 0, 0.1);
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start; 
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.Navbar {
+  display: inline-block;
+  margin: 0 0.8rem;
+  text-decoration: none;
+  color: #00968F;
+  font-size:1.2rem;
+}
+.Login {
+  padding: 10px 20px;
+  border-radius: 10px;
+  color:#00968F ;
+  transition: background-color 0.15s,font-size 0.15s;
+}
+.Login:hover {
+  background-color: #00968F;
+  font-size: 1.4rem;
+}
+.logo {
+  color: rgb(39, 158, 255);
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-right: 70px;
+  
+}
+
