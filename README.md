@@ -18,7 +18,7 @@ A Dermatite Atópica é uma doença crônica e hereditária que causa inflamaç�
 
  Login e senha para teste na página de login: 
 - AUTENTICA@gmail.com
-- 123
+- Senha: 123
 
 Como rodar a aplicação:
 - Digitar no terminal o comando npm install.
