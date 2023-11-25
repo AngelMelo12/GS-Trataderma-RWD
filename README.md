@@ -1,4 +1,4 @@
-#Descritivo da solução: 
+# Descritivo da solução: 
 
 Somos a DesenvolvimentoHealth! Uma startup especializada em desenvolvimento de sistemas para hospitais, farmácias e unidades de saúde no geral. Nosso objetivo é transformar o mundo por via da tecnologia com o uso principalmente de inteligências artificiais! Somos, no total, 5 desenvolvedores cursando Análise e Desenvolvimento de Sistemas na FIAP em busca de um mundo mais saudável!
 
